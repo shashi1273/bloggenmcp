@@ -1,0 +1,15 @@
+{
+  "name": "mcp-blog-server",
+  "version": "1.0.0",
+  "description": "MCP server for technical blog creation with business rules",
+  "main": "server.py",
+  "scripts": {
+    "start": "python3 server.py"
+  },
+  "dependencies": {
+    "mcp": "^1.0.0"
+  },
+  "author": "Manus AI",
+  "license": "MIT"
+}
+
